@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaulMaldonadoNavarro
-- 👀 I’m interested in data science and graphic interfaces
+- 👀 I’m interested in data science, project management and NPL
 - 🌱 I’m currently studying CS engineering
 - 📫 How to reach me: saulmn_2599@outlook.es
 
