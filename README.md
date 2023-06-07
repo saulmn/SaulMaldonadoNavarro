@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaulMaldonadoNavarro
+- 👋 Hi, I’m Saul Maldonado Navarro
 - 🌱 I'm computer sciences engineer
 - 👀 I’m interested in web development, data science and data analysis
 - 📫 How to reach me: saulmn_2599@outlook.es / saulmn.2599@gmail.com
