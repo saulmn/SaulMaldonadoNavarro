@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaulMaldonadoNavarro
-- 👀 I’m interested in data science, project management and NPL
-- 🌱 I’m currently studying CS engineering
-- 📫 How to reach me: saulmn_2599@outlook.es
+- 🌱 I'm computer sciences engineer
+- 👀 I’m interested in web development, data science and data analysis
+- 📫 How to reach me: saulmn_2599@outlook.es / saulmn.2599@gmail.com
 
 <!---
 SaulMaldonadoNavarro/SaulMaldonadoNavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
